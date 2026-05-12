@@ -26,8 +26,8 @@ An intelligent Telegram bot designed for design studios and web agencies to auto
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/echo-design-bot.git
-    cd echo-design-bot
+    git clone https://github.com/CryssQ/AI-Powered-Studio-Management-Telegram-Bot.git
+    cd AI-Powered-Studio-Management-Telegram-Bot
     ```
 
 2.  **Install dependencies**:
