@@ -1,0 +1,6 @@
+{
+  "name": "Echo Design Bot",
+  "description": "Telegram bot for design and layout consultations and orders, powered by Gemini AI with function calling for order management and email notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
